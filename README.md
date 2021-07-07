@@ -13,4 +13,4 @@ For caching declaration, Spring’s caching abstraction provides a set of Java a
 
 5).@CacheConfig: Shares some common cache-related settings at class-level.
 
-Extensively used: Java, SpringBoot, JPA, Hibernate, MySql, SpringToolSuit, Mysql, Maven, Postman.
+Extensively used : Java, SpringBoot, JPA, Hibernate, MySql, SpringToolSuit, Mysql, Maven, Postman.
